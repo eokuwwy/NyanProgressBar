@@ -3,15 +3,9 @@ import com.intellij.ide.ui.LafManagerListener;
 import com.intellij.ide.ui.laf.LafManagerImpl;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.components.ApplicationComponent;
-import com.intellij.util.ui.UIUtil;
-import javafx.embed.swing.JFXPanel;
-import javafx.scene.media.Media;
-import javafx.scene.media.MediaPlayer;
-import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
 
 import javax.swing.*;
-import java.net.URL;
 
 public class NyanApplicationComponent implements ApplicationComponent {
     private int shownProgressBars;
