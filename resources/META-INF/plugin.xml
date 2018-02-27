@@ -1,6 +1,6 @@
 <idea-plugin>
   <id>some.awesome</id>
-  <name>Nyan Progress Bar</name>
+  <name>Party Progress Bar</name>
   <version>1.10</version>
   <vendor email="dmitry.batkovich@jetbrains.com">Dmitry Batkovich</vendor>
 
