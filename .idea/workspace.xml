@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59fffade-866b-408f-8d7d-cc7418d0835b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/partyparrot32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/slowparrot32.gif" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="59fffade-866b-408f-8d7d-cc7418d0835b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -312,12 +307,12 @@
       <workItem from="1519696275479" duration="30000" />
       <workItem from="1519696322885" duration="10000" />
       <workItem from="1519747148915" duration="217000" />
-      <workItem from="1519771255325" duration="942000" />
+      <workItem from="1519771255325" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4842000" />
+    <option name="totallyTimeSpent" value="4897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="805" extended-state="0" />
